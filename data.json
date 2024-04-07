@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Bag",
+    "price": 29,
+    "image": "./assets/images/bag.png",
+    "alt": "bag product"
+  },
+  {
+    "id": 2,
+    "name": "Pen",
+    "price": 3,
+    "image": "./assets/images/pen.png",
+    "alt": "pen product"
+  },
+  {
+    "id": 3,
+    "name": "Note Book",
+    "price": 12,
+    "image": "./assets/images/note-book.png",
+    "alt": "note book product"
+  },
+  {
+    "id": 4,
+    "name": "Colored Pencils",
+    "price": 11,
+    "image": "./assets/images/colored-pencils.png",
+    "alt": "colored pencils product"
+  },
+  {
+    "id": 5,
+    "name": "Pencil",
+    "price": 3,
+    "image": "./assets/images/pencil.png",
+    "alt": "pencil product"
+  },
+  {
+    "id": 6,
+    "name": "Ruler",
+    "price": 8,
+    "image": "./assets/images/ruler.png",
+    "alt": "ruler product"
+  },
+  {
+    "id": 7,
+    "name": "Mug",
+    "price": 17,
+    "image": "./assets/images/mug.png",
+    "alt": "mug product"
+  },
+  {
+    "id": 8,
+    "name": "Eraser",
+    "price": 2,
+    "image": "./assets/images/eraser.png",
+    "alt": "eraser product"
+  },
+  {
+    "id": 9,
+    "name": "Glue Stick",
+    "price": 5,
+    "image": "./assets/images/glue-stick.png",
+    "alt": "glue stick product"
+  }
+]
